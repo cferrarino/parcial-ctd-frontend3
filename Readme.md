@@ -1,6 +1,6 @@
 **Primer evaluación entregable de Front-end III para C.T.D.**
 
-Consigna: 
+Consigna: https://github.com/Ivanszs/ctd-frontend3-primer-evaluacion 
 
 **En este entregable se evaluaron los siguientes elementos:**
 
